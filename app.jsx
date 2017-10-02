@@ -65,7 +65,7 @@ function  Init() {
             <div id="divInterno">
                 <div className="row">
                     <div id="questions">
-                      {app[0]}
+                     asd
                     </div>
                     <div className="col-md-12 container-fluid">
                         <div className="answers row">
