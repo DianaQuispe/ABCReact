@@ -40,9 +40,7 @@ let game =
  image:' images/plane.svg',
 },
 ]
-let mapeo = game.map((index, value ) {
-    
-})
+
 class App extends React.Component{
     constructor(props) {
         super(props);
